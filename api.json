@@ -1,0 +1,28 @@
+{
+  "register": [
+    {
+      "id": "6a6a",
+      "fname": "sonia",
+      "email": "sonia@gmail.com",
+      "mobile": "32434564654",
+      "username": "sonia12",
+      "password": "1234"
+    },
+    {
+      "id": "3caa",
+      "fname": "Manish",
+      "email": "manish@gmaial.com",
+      "mobile": "5465676867",
+      "username": "manish",
+      "password": "1234"
+    },
+    {
+      "id": "23ca",
+      "fname": "Yukti",
+      "email": "yukti@gmail.com",
+      "mobile": "4657567",
+      "username": "yukti12",
+      "password": "1234"
+    }
+  ]
+}
